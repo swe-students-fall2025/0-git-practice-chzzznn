@@ -13,3 +13,9 @@ This comprehensive article by [Krissy Davis](https://www.wearedevelopers.com/en/
 ---
 
 *Source: [What is Software Engineering?](https://www.wearedevelopers.com/en/magazine/289/what-is-software-engineering) by Krissy Davis on WeAreDevelopers*
+
+
+## Article Interest
+(Evelynn Mak)
+
+It was nice of the article to include the differences between a Software Developer and a Software Engineer as I was not that aware of the differences between the two roles. I did not realize that software developers focused more on debugging. 
